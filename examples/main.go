@@ -13,9 +13,9 @@ import (
 )
 
 const (
-	secretID           = "AKID7GDvNYWkRs66C0wajcDYdSowe29zwqc7"
-	secretKey          = "OYVCeq1A3f9WdT2PXRhjV0FEx5w9G8lA"
-	queueName          = "qingzhenyun-user-file"
+	secretID           = ""
+	secretKey          = ""
+	queueName          = ""
 	pollingWaitSeconds = 1
 )
 
